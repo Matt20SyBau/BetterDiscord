@@ -36,7 +36,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
 ## Variables
 
 #### App elements
- - `--app-bg` - The background image for the entire Discord app. Default: `url(https://i.imgur.com/U8bSjj5.jpg)`
+ - `--app-bg` - The background image for the entire Discord app. Default: `url(https://wallpapers.com/images/hd/legend-of-zelda-1920-x-1080-background-rf2d62fr4loicdqo.jpg)`
  - `--app-blur` - The strength of the blur for every element that has one. Default: `6px`
  - `--app-margin` - The margin surrounding the content area. Default: `24px`
  - `--app-radius` - The border radius of the app and every element that has a border radius. Default: `8px`
@@ -44,7 +44,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
  - `--main-content-color` - The background color of the main content areas. Default: `rgba(0,0,0, 0.2)`
 
 #### Accent color
- - `--accent-hue` - The hue value for the accent color of the theme. Default: `156`
+ - `--accent-hue` - The hue value for the accent color of the theme. Default: `357`
  - `--accent-saturation` - The saturation value for the accent color of the theme. Default: `77.5%`
  - `--accent-lightness` - The lightness value for the accent color of the theme. Default: `47.1%`
  - `--accent-opacity` - The opacity of everything, excluding text, that uses the accent color. Default: `1`
